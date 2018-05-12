@@ -1,0 +1,31 @@
+_repo: Vaughan-s-Vegetable-Cook-Book--4th-edition---13-How-to-Cook-and-Use-Rarer-Vegetables-and-Herb__19775
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2006-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vegetables'
+- !lcsh 'Cooking (Vegetables)'
+- !lcc 'TX'
+title: "Vaughan's Vegetable Cook Book (4th edition)\r\nHow to Cook and Use Rarer Vegetables\
+  \ and Herbs"
+url: http://www.gutenberg.org/ebooks/19775
