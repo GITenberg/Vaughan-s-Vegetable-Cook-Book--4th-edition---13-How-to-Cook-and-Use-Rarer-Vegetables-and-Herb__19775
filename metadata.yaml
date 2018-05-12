@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19775#Vaughan-s-Vegetable-Cook-Book--4th-edition---13-How-to-Cook-and-Use-Rarer-Vegetables-and-Herb_
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2006-11-12'
 gutenberg_type: Text
